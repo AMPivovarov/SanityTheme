@@ -1,0 +1,1 @@
+Building plugin: Use the 'Prepare Plugin Module ... For Deployment' IDE action.

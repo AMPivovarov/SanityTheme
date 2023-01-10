@@ -1,0 +1,30 @@
+{
+  "name": "SanityTheme",
+  "author": "JetBrains",
+  "editorScheme": "/theme/Sanity.xml",
+  "dark": false,
+  "colors": {
+  },
+  "ui": {
+    "*.selectionBackground": "Blue10",
+    "*.lightSelectionBackground": "Blue10",
+    "*.selectionInactiveBackground": "Gray10",
+
+    "Menu.borderColor": "Gray10",
+    "Borders.color": "Gray10",
+
+    "ToolWindow.Header.borderColor": "Gray10",
+    "ToolWindow.Button.selectedBackground": "Blue6",
+
+    "VersionControl": {
+      "comment": "TODO - a better shade instead of dirty-pink",
+      "Log.Commit.currentBranchBackground": "#f0e4f1",
+      "Log.Commit.hoveredBackground": "#c3d2e366",
+      "Log.Commit.unmatchedForeground": "grey02",
+      "FileHistory.Commit.selectedBranchBackground": "#fffee4"
+    },
+
+    "comment": "Workaround for the LafManagerImplKt#patchHiDPI",
+    "hidpi.scaleFactor": "1.0"
+  }
+}

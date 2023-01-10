@@ -1,0 +1,24 @@
+<idea-plugin>
+    <id>SanityTheme</id>
+    <version>1.0.1</version>
+
+    <name>Sanity Theme</name>
+    <category>UI</category>
+    <description>
+        A theme that increases the contrast of the default Light theme to more comfortable levels.
+        It serves as a middle ground between the Classic UI and New UI Light themes.
+    </description>
+
+    <vendor email="aleksey.pivovarov@jetbrains.com">JetBrains</vendor>
+
+    <!-- Since the Gray-Grey confusion of IJ default theme -->
+    <idea-version since-build="242.10000" until-build="300.*"/>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="SanityTheme"
+                       path="/theme/SanityTheme.theme.json"
+                       parentTheme="ExperimentalLightWithLightHeader"/>
+    </extensions>
+</idea-plugin>
