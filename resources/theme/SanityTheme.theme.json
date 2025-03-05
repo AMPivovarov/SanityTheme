@@ -15,6 +15,7 @@
 
     "ToolWindow.Header.borderColor": "Gray10",
     "ToolWindow.Button.selectedBackground": "Blue6",
+    "EditorTabs.borderColor": "Gray10",
 
     "VersionControl": {
       "comment": "TODO - a better shade instead of dirty-pink",
