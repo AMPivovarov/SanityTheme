@@ -8,14 +8,14 @@
   "ui": {
     "*.selectionBackground": "Blue10",
     "*.lightSelectionBackground": "Blue10",
-    "*.selectionInactiveBackground": "Gray10",
+    "*.selectionInactiveBackground": "Gray11",
 
-    "Menu.borderColor": "Gray10",
-    "Borders.color": "Gray10",
+    "Menu.borderColor": "Gray11",
+    "Borders.color": "Gray11",
 
-    "ToolWindow.Header.borderColor": "Gray10",
+    "ToolWindow.Header.borderColor": "Gray11",
     "ToolWindow.Button.selectedBackground": "Blue6",
-    "EditorTabs.borderColor": "Gray10",
+    "EditorTabs.borderColor": "Gray11",
 
     "VersionControl": {
       "comment": "TODO - a better shade instead of dirty-pink",
