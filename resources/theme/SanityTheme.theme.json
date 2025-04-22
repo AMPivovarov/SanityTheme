@@ -2,6 +2,7 @@
   "name": "SanityTheme",
   "author": "JetBrains",
   "editorScheme": "/theme/Sanity.xml",
+  "parentTheme": "ExperimentalLightWithLightHeader",
   "dark": false,
   "colors": {
   },
