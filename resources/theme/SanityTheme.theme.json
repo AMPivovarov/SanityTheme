@@ -19,10 +19,10 @@
     "EditorTabs.borderColor": "Gray11",
 
     "VersionControl": {
-      "comment": "TODO - a better shade instead of dirty-pink",
-      "Log.Commit.currentBranchBackground": "#f0e4f1",
-      "Log.Commit.hoveredBackground": "#c3d2e366",
-      "Log.Commit.unmatchedForeground": "grey02",
+      "Log.Commit.selectionInactiveBackground": "Gray9",
+      "Log.Commit.currentBranchBackground": "#ebe3eb",
+      "Log.Commit.hoveredBackground": "Gray10",
+      "Log.Commit.unmatchedForeground": "Gray02",
       "FileHistory.Commit.selectedBranchBackground": "#fffee4"
     },
 
