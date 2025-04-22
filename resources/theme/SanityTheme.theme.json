@@ -26,7 +26,32 @@
       "Log.Commit.currentBranchBackground": "#ebe3eb",
       "Log.Commit.hoveredBackground": "Gray10",
       "Log.Commit.unmatchedForeground": "Gray02",
-      "FileHistory.Commit.selectedBranchBackground": "#fffee4"
+      "FileHistory.Commit.selectedBranchBackground": "#fffee4",
+
+      "FileStatus": {
+        "NOT_CHANGED": "",
+        "NOT_CHANGED_IMMEDIATE": "#3264b4",
+        "NOT_CHANGED_RECURSIVE": "#8aa4c8",
+        "DELETED": "#616161",
+        "MODIFIED": "#0032a0",
+        "ADDED": "#0a7700",
+        "MERGED": "#7503dc",
+        "UNKNOWN": "#993300",
+        "IDEA_FILESTATUS_IGNORED": "#727238",
+        "HIJACKED": "#b28c00",
+        "IDEA_FILESTATUS_MERGED_WITH_CONFLICTS": "#ff0000",
+        "IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS": "#ff0000",
+        "IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS": "#ff0000",
+        "IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM": "#773895",
+        "SWITCHED": "#08978f",
+        "OBSOLETE": "#7c7c00",
+        "SUPPRESSED": "",
+        "modifiedOutside": "#0047e4",
+        "addedOutside": "#0eaa00",
+        "changelistConflict": "#ff0000",
+        "COPIED": "#0a7700",
+        "RENAMED": "#007c7c"
+      }
     },
 
     "comment": "Workaround for the LafManagerImplKt#patchHiDPI",
