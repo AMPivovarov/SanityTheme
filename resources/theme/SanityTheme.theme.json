@@ -17,6 +17,7 @@
     "ToolWindow.Header.borderColor": "Gray11",
     "ToolWindow.Button.selectedBackground": "Blue6",
     "EditorTabs.borderColor": "Gray11",
+    "EditorTabs.unselectedBlend": "1.0",
 
     "VersionControl": {
       "Log.Commit.selectionInactiveBackground": "Gray9",
