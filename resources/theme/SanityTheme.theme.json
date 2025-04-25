@@ -18,6 +18,8 @@
     "ToolWindow.Button.selectedBackground": "Blue6",
     "EditorTabs.borderColor": "Gray11",
     "EditorTabs.unselectedBlend": "1.0",
+    "EditorTabs.fontSizeOffset": 0,
+    "EditorTabs.fontSizeOffset.compact": 0,
 
     "VersionControl": {
       "Log.Commit.selectionInactiveBackground": "Gray9",
